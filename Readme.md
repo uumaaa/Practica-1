@@ -1,9 +1,9 @@
-# Practica 1 - Resolución de problemas de merge
+# Practica 1 - Resolución de problemas de merging
 ## Integrantes
 | Integrante | Github |
 | ------ | ------ |
-| Iker Antonio Pluma Amaro | [https://github.com/uumaaa][PlDb] |
-| Álvaro García Vásquez | [https://github.com][PlGh] |
-| Luis Alfredo Cuamatzi Flores | [https://github.com][PlGd] |
-| Fernando Daniel Portilla Posadas | [https://github.com][PlOd] |
+| Iker Antonio Pluma Amaro | https://github.com/uumaaa |
+| Álvaro García Vásquez | https://github.com |
+| Luis Alfredo Cuamatzi Flores | https://github.com |
+| Fernando Daniel Portilla Posadas | https://github.com |
 
